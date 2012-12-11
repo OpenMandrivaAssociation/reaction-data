@@ -32,3 +32,10 @@ Data files used to play first-person shooter Reaction.
 %files
 %doc %{oname}-license.txt
 %{_gamesdatadir}/%{gname}/%{gname}
+
+
+%changelog
+* Mon Apr 02 2012 Andrey Bondrov <abondrov@mandriva.org> 1.0-1
++ Revision: 788818
+- imported package reaction-data
+
