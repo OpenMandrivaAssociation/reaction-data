@@ -3,7 +3,7 @@
 
 Name:		%{gname}-data
 Version:	1.0
-Release:	%mkrel 1
+Release:	2
 Summary:	Data files used to play first-person shooter Reaction
 Group:		Games/Arcade
 License:	CC-BY-SA 3.0
