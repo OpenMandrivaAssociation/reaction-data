@@ -7,7 +7,7 @@ Release:	2
 Summary:	Data files used to play first-person shooter Reaction
 Group:		Games/Arcade
 License:	CC-BY-SA 3.0
-URL:		http://rq3.com/
+URL:		https://rq3.com/
 Source0:	http://download.rq3.com/%{oname}-%{version}-Linux-i386.tar.gz
 Requires:	%{gname}
 BuildArch:	noarch
